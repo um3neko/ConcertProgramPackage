@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CONCERT PROGRAMS" />
+			<Item Name="Columns.UsrCode.Caption" Value="Код" />
+			<Item Name="Columns.UsrFrequency.Caption" Value="Периодичность" />
+			<Item Name="Columns.UsrIsActive.Caption" Value="Активна" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.UsrTeam.Caption" Value="Коллектив" />
+		</Items>
+	</Group>
+</Resources>

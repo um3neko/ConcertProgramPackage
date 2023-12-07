@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тег в записи раздела CONCERT PROGRAMS" />
+			<Item Name="Columns.Entity.Caption" Value="CONCERT PROGRAMS" />
+			<Item Name="Columns.Tag.Caption" Value="Тег раздела CONCERT PROGRAMS" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;CONCERT PROGRAMS&quot;" />
+			<Item Name="LocalizableStrings.Tab0c42eb60TabLabelTabCaption.Value" Value="Выступления" />
+			<Item Name="LocalizableStrings.UsrSchema4877236bDetailbb9ef1f8DetailCaptionOnPage.Value" Value="Выступление" />
+		</Items>
+	</Group>
+</Resources>

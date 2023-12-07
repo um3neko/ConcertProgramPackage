@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ec17c074-293a-4456-b0c7-e1e0c067b4e6",
+    "Name": "UsrConcertInFolder",
+    "ModifiedOnUtc": "\/Date(1701959154000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "CONCERT PROGRAMS в группе",
+    "DependsOn": []
+  }
+}

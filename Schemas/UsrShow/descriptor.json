@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b8903d6-7534-473c-99e1-550ae89da3dd",
+    "Name": "UsrShow",
+    "ModifiedOnUtc": "\/Date(1701960136000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Выступление",
+    "DependsOn": []
+  }
+}

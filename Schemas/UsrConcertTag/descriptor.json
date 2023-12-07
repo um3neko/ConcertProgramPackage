@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "83769bbe-5b5c-4e0e-8f17-dfde92ccc097",
+    "Name": "UsrConcertTag",
+    "ModifiedOnUtc": "\/Date(1701959160000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела CONCERT PROGRAMS",
+    "DependsOn": []
+  }
+}

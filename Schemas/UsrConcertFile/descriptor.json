@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb4c336d-124c-4fbe-b450-341d78da4a7b",
+    "Name": "UsrConcertFile",
+    "ModifiedOnUtc": "\/Date(1701959143000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта CONCERT PROGRAMS",
+    "DependsOn": []
+  }
+}

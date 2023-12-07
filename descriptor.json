@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "797cb13e-6143-9989-a4ca-0e25ce4ff326",
+    "Name": "ConcertProgramPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1701959013000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/ConcertProgramPackage.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
